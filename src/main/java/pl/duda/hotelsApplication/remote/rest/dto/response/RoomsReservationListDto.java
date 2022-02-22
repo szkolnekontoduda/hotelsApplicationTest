@@ -1,7 +1,6 @@
 package pl.duda.hotelsApplication.remote.rest.dto.response;
 
 import pl.duda.hotelsApplication.remote.rest.dto.request.RoomReservationDto;
-import pl.duda.hotelsApplication.domain.model.OrderStatusType;
 
 import java.util.List;
 

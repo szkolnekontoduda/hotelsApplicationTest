@@ -1,4 +1,4 @@
-package com.example.hotelsapplicationtest;
+package pl.duda.hotelsapplicationtest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
