@@ -1,4 +1,4 @@
-package pl.duda.hotelsApplication.remote.rest.dto.response;
+package pl.duda.hotelsApplication.domain.model;
 
 public enum OrderStatusType {
     NEW,ACTIVE,OLD,CANCELLED
